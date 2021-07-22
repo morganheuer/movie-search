@@ -1,6 +1,20 @@
 {
-  "main.css": "static/css/main.91ce1dd4.css",
-  "main.css.map": "static/css/main.91ce1dd4.css.map",
-  "main.js": "static/js/main.7d0d8028.js",
-  "main.js.map": "static/js/main.7d0d8028.js.map"
+  "files": {
+    "main.css": "/morganheuer/movie-search.git/static/css/main.0d043903.chunk.css",
+    "main.js": "/morganheuer/movie-search.git/static/js/main.215da310.chunk.js",
+    "main.js.map": "/morganheuer/movie-search.git/static/js/main.215da310.chunk.js.map",
+    "runtime-main.js": "/morganheuer/movie-search.git/static/js/runtime-main.848abbfc.js",
+    "runtime-main.js.map": "/morganheuer/movie-search.git/static/js/runtime-main.848abbfc.js.map",
+    "static/js/2.50bfa53a.chunk.js": "/morganheuer/movie-search.git/static/js/2.50bfa53a.chunk.js",
+    "static/js/2.50bfa53a.chunk.js.map": "/morganheuer/movie-search.git/static/js/2.50bfa53a.chunk.js.map",
+    "index.html": "/morganheuer/movie-search.git/index.html",
+    "static/css/main.0d043903.chunk.css.map": "/morganheuer/movie-search.git/static/css/main.0d043903.chunk.css.map",
+    "static/js/2.50bfa53a.chunk.js.LICENSE.txt": "/morganheuer/movie-search.git/static/js/2.50bfa53a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.848abbfc.js",
+    "static/js/2.50bfa53a.chunk.js",
+    "static/css/main.0d043903.chunk.css",
+    "static/js/main.215da310.chunk.js"
+  ]
 }
